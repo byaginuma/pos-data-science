@@ -1,0 +1,5 @@
+This directory contains 2 files (plus this readme file):
+-- a codebook
+-- a data set
+
+The code book "code_bk.txt" gives the variables in the data set and their means and min/max values. It also gives a reference for the article by D. Card that the data is derived from.
